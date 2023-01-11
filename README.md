@@ -1,4 +1,4 @@
-# Section- Flexbox 👩🏾‍💻
+# CSS Grid Layout e Flexbox 👩🏾‍💻
 ## Colocando em pátria a primeira parte da aula de HTML e CSS Grid Layout e Flexbox da ORIGAMID!
 
 ### Veja o resultado!
